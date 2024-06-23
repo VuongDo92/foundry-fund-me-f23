@@ -13,3 +13,7 @@ docs/
 # Dotenv file
 .env
 .password
+Makefile
+
+broadcast/
+lib/
